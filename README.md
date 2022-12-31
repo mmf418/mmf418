@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI programming
 - 🌱 I’m currently learning AI proramming
 - 💞️ I’m looking to collaborate on AI programming
-- 📫 How to reach me is unknown
+- 📫 How to reach me is secret
 
 <!---
 mmf418/mmf418 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
